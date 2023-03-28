@@ -1,4 +1,4 @@
-# <p align="center"> Hi! I'm Micaela Picco, welcome to my GitHub! </p
+# <p align="center"> Hi! I'm Micaela Picco, welcome to my GitHub! </p>
   
 
 ![](https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966)  
@@ -38,5 +38,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=micaelapicco&&show_icons=true&count_private=true&theme=bear&hide_border=true&hide=issues,contribs&bg_color=00000000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelapicco&theme=bear&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=micaelapicco&theme=bear&hide_border=true&background=00000000" />
-Last Update 28/3/23 
+<div align="center">Last update: 28/03/2023 </div>
 </p>
