@@ -10,14 +10,14 @@
 
 <br/>  
 
-<h2 align="center">Connect with me  : </h2>
-<div align="center">
-<a href="https://github.com/micaelapicco" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" align ="center" />
-</a>  
-</div>  
-  
+<h3 align="center"> 📫 How to reach me: </h3>
 
+<div align="center">
+  
+&ensp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:micaelaabril421@gmail.com)
+  
+</div>
+ 
 
 <h2 align="center"> 📊 GitHub Stats: </h2>
 <br />
@@ -25,6 +25,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=micaelapicco&&show_icons=true&count_private=true&theme=bear&hide_border=true&hide=issues,contribs&bg_color=00000000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelapicco&theme=bear&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=compact" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=micaelapicco&theme=bear&hide_border=true&background=00000000" />
-<div align="center">Last update: 23/03/2023 
+<div align="center">Last update: 05/2023 
 <div>
 </p>
+  
+ ![](https://komarev.com/ghpvc/?username=micaelapicco&color=77417d&style=plastic)
+
