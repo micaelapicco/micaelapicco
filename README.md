@@ -1,14 +1,12 @@
-<h1 align="center"> Hi! I'm Micaela Picco, welcome to my GitHub!</h1>
+<h1 align="center"> Hi! I'm Micaela Picco, welcome to my GitHub! 🌱🐄</h1>
 <div align="center">  
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--uXg-zzRB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/uqohmvsr0ilxd9wfb8bi.gif)  
+![](https://github.com/micaelapicco/micaelapicco/assets/124269707/a1c855f9-b547-4135-9e13-0ce3bc40817f)  
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
-<br/>  
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="center"> 📫 How to reach me: </h3>
 
@@ -18,8 +16,7 @@
   
 </div>
  
-
-<h2 align="center"> 📊 GitHub Stats: </h2>
+<h3 align="center"> 📊 GitHub Stats: </h3>
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=micaelapicco&&show_icons=true&count_private=true&theme=bear&hide_border=true&hide=issues,contribs&bg_color=00000000" />
