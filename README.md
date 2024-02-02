@@ -1,10 +1,6 @@
 <h1 align="center"> Hi! I'm Micaela Picco, welcome to my GitHub! 🌱🐄</h1>
 <div align="center">  
 
-![](https://github.com/micaelapicco/micaelapicco/assets/124269707/a1c855f9-b547-4135-9e13-0ce3bc40817f)  
-  
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
@@ -16,6 +12,12 @@
   <a  href="https://svelte.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/747px-Svelte_Logo.svg.png" alt="Sevelte logo" width=4% heigth=4%></img></a>
   <a  href="https://git-scm.com/"><img src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" alt="Git logo" width=5% heigth=5%></img></a>
   <a  href="https://github.com/"><img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="GitHub logo" width=5% heigth=5%></img></a>
+</div>
+
+<h3 align="center"> Currently learning: </h3>
+<div>
+ <a  href="https://es.react.dev/"><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React logo" width=5% heigth=5%></img></a>
+ <a  href="https://nextjs.org/"><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="NextJS logo" width=5% heigth=5%></img></a>
 </div>
 
 <h3 align="center"> How to contact me: </h3>
@@ -31,7 +33,7 @@
 <p align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelapicco&theme=material-palenight&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=donut" />
-<div align="center">Last update: 12/2023 
+<div align="center">Last update: 2/2024 
 <div>
 </p>
   
