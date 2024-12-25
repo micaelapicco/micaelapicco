@@ -18,6 +18,7 @@
 <div>
  <a  href="https://es.react.dev/"><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React logo" width=5% heigth=5%></img></a>
  <a  href="https://nextjs.org/"><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png" alt="NextJS logo" width=5% heigth=5%></img></a>
+ <a  href="https://dotnet.microsoft.com/es-es/languages/csharp"><img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="C# logo" width=5% heigth=5%></img></a>
 </div>
 
 <h3 align="center"> How to contact me: </h3>
